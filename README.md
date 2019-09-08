@@ -12,9 +12,9 @@ We meet at least once a month (usually more).
 Check out our schedule on <https://www.meetup.com/brum-ai>
 
 # Check out our content!
-* YouTube
-* Github
-* Slack
+* [YouTube](https://www.youtube.com/channel/UCUwCrXFqvkYjMbRgP6DfTDA/videos)
+* [Github](https://github.com/brumai)
+* [Slack](https://join.slack.com/t/brumai/shared_invite/enQtNjQxMjc4NTkxNjg3LWNiMjg4MjgzYjg2ZmEzNmQ1ODQxOTlhOGI1ZDg2ODM2NTI4NDVlY2U3OTFhOTU5MGMyOGE4MzVmZGFmYTA2M2M)
 * Podcast [First episode due 21st September 2019]
 
 
