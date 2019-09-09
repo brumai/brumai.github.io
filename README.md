@@ -50,3 +50,14 @@ BrumAI is run entirely by volunteers for free. We think Birmingham can become th
 # Speaking at BrumAI
 Speaking at BrumAI can be great way to get your ideas out there in the community. If you're a researcher, or are using AI in your work please get in touch.
 
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-147270710-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-147270710-1');
+</script>
