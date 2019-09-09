@@ -1,5 +1,7 @@
 ### Think you can build a better website than this? 🙂 We're looking for volunteers! See below to help out 
 
+* 840 members so far
+
 # Mission
 We're working to become the home of AI in the midlands. 
 We believe that AI represents the most impactful technological shift humankind has ever seen, and we want to make sure that it is used for good. To this end, we're doing three things:
@@ -34,7 +36,7 @@ BrumAI is run entirely by volunteers for free. We think Birmingham can become th
 * Graham - Runs awesome discussions for us
 * Trevor - Kindly hosts us as Aston Uni
 * Peet - Organises BrumAI
-
+v
 
 ## What we need help with 
 
