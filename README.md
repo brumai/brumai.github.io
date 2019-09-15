@@ -1,6 +1,6 @@
 ### Think you can build a better website than this? 🙂 We're looking for volunteers! See below to help out 
 
-* __840 members so far__
+* __860 members so far__
 
 # Mission
 We're working to become the home of AI in the midlands. 
@@ -23,8 +23,9 @@ Check out our schedule on <https://www.meetup.com/brum-ai>
 # Sponsors
 * Wealth Wizards - Provide the pizza and beer at our main events. :) Wealth Wizards have built the UK's first digital financial adviser.
 * Aston University - Very kindly let us use their awesome lecture theatres for our big monthly meetups 💖
-* Packt - Are sponsoring our podcast and also produce some of the best technical books out there.
+* Packt - Are sponsoring our podcast and also produce some of the best technical books out there. 🚀
 * AlphaWorks - Birmingham's best co-working space let us use their space for our workshops and study groups
+* sli.do - Let us use their awesome event collaborate software for free :) 💝
 
 # How to volunteer
 BrumAI is run entirely by volunteers for free. We think Birmingham can become the UK city of choice to start an AI startup and we think that's well worth volunteering for. If you'd like to muck in and help make a big impact contact Peet through the [Meetup Site](https://www.meetup.com/brum-ai)
