@@ -1,6 +1,6 @@
 ### Think you can build a better website than this? 🙂 We're looking for volunteers! See below to help out 
 
-* __860 members so far__
+* __870 members so far__
 
 # Mission
 We're working to become the home of AI in the midlands. 
@@ -37,7 +37,7 @@ BrumAI is run entirely by volunteers for free. We think Birmingham can become th
 * Graham - Runs awesome discussions for us
 * Trevor - Kindly hosts us as Aston Uni
 * Peet - Organises BrumAI
-v
+
 
 ## What we need help with 
 
@@ -47,6 +47,7 @@ v
 * Admin - There's always things to do, and it'd be awesome if we could be more  organised. Are you organised? Can you impose order on chaos? If so, get in touch! :) 
 * Social media manager(s)
 * Content writer
+* Audio and video editor / creative
 * Animator - Are you handy with animating things on the screen and making striking visuals? We'd love to hear from you :) 
 
 
