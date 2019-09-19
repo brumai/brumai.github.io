@@ -11,7 +11,7 @@ We believe that AI represents the most impactful technological shift humankind h
 
 # Attend a Meetup
 We meet at least once a month (usually more).
-Check out our schedule on <meetup.com/brum-ai>
+Check out our schedule on <http://meetup.com/brum-ai>
 
 # Check out our content!
 * [YouTube](https://www.youtube.com/channel/UCUwCrXFqvkYjMbRgP6DfTDA/videos)
