@@ -28,7 +28,7 @@ Check out our schedule on <https://www.meetup.com/brum-ai>
 * sli.do - Let us use their awesome event collaborate software for free :) 💝
 
 # How to volunteer
-BrumAI is run entirely by volunteers for free. We think Birmingham can become the UK city of choice to start an AI startup and we think that's well worth volunteering for. If you'd like to muck in and help make a big impact contact Peet through the [Meetup Site](https://www.meetup.com/brum-ai)
+BrumAI is run entirely by volunteers for free. We think Birmingham can become the UK city of choice to start an AI startup and we think that's well worth volunteering for. If you'd like to muck in and help make a big impact contact Peet through the [Meetup Site](https://meetup.com/brum-ai)
 
 ## Who's helping so far
 
