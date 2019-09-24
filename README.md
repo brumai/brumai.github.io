@@ -14,7 +14,6 @@ We meet at least once a month (usually more).
 Check out our schedule on <http://meetup.com/brum-ai>
 
 # Check out our content!
-* <a href="https://www.youtube.com/channel/UCUwCrXFqvkYjMbRgP6DfTDA/videos">YouTube</a>
 
 * [YouTube](https://www.youtube.com/channel/UCUwCrXFqvkYjMbRgP6DfTDA/videos)
 * [Github](https://github.com/brumai)
