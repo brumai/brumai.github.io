@@ -18,7 +18,7 @@ Check out our schedule on <http://meetup.com/brum-ai>
 * [YouTube](https://www.youtube.com/channel/UCUwCrXFqvkYjMbRgP6DfTDA/videos)
 * [Github](https://github.com/brumai)
 * [Slack](https://join.slack.com/t/brumai/shared_invite/enQtNjQxMjc4NTkxNjg3LWNiMjg4MjgzYjg2ZmEzNmQ1ODQxOTlhOGI1ZDg2ODM2NTI4NDVlY2U3OTFhOTU5MGMyOGE4MzVmZGFmYTA2M2M)
-* Podcast [website](https://brumai.podbean.com/) | [Spotify](https://open.spotify.com/show/4nHPEeSIgpfQfj2vkBDH9O?si=1emDVhoHRfiyPNMSDPTQYw)
+* Podcast [website](https://brumai.podbean.com/),  [Spotify](https://open.spotify.com/show/4nHPEeSIgpfQfj2vkBDH9O?si=1emDVhoHRfiyPNMSDPTQYw)
 
 
 # Sponsors
