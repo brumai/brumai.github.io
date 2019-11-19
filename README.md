@@ -1,6 +1,6 @@
 ### Think you can build a better website than this? 🙂 We're looking for volunteers! See below to help out 
 
-* __998 members so far__
+* __1003 members so far__🎉
 
 # Mission
 We're working to become the home of AI in the midlands. 
