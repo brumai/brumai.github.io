@@ -1,6 +1,6 @@
 ### Think you can build a better website than this? 🙂 We're looking for volunteers! See below to help out 
 
-* __1003 members so far__🎉
+* __1016 members so far__🎉
 
 # Mission
 We're working to become the home of AI in the midlands. 
@@ -36,7 +36,7 @@ BrumAI is run entirely by volunteers for free. We think Birmingham can become th
 * Bex - Organises all the food and drink every month
 * Aline - Writes our newsletter (as well as being an IP boffin!)
 * Graham - Runs awesome discussions for us
-* Trevor - Kindly hosts us as Aston Uni
+* Dr. Peter Lewis  - Kindly hosts us as Aston Uni
 * Peet - Organises BrumAI
 
 
