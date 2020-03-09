@@ -1,6 +1,6 @@
 ### Think you can build a better website than this? 🙂 We're looking for volunteers! See below to help out 
 
-* __1016 members so far__🎉
+* __1100 members so far__🎉
 
 # Mission
 We're working to become the home of AI in the midlands. 
@@ -25,6 +25,7 @@ Check out our schedule on <http://meetup.com/brum-ai>
 * Wealth Wizards - Provide the pizza and beer at our main events. :) Wealth Wizards have built the UK's first digital financial adviser.
 * Aston University - Very kindly let us use their awesome lecture theatres for our big monthly meetups 💖
 * Packt - Are sponsoring our podcast and also produce some of the best technical books out there. 🚀
+* Google Developers - match us up with speakers and provide funding for events
 * AlphaWorks - Birmingham's best co-working space let us use their space for our workshops and study groups
 * sli.do - Let us use their awesome event collaborate software for free :) 💝
 
